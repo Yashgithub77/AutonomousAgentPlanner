@@ -1,0 +1,8 @@
+{
+  "name": "LifeLoop AI Agentic Platform",
+  "description": "An autonomous AI companion that plans, schedules, and adapts your life. Includes goal breaking, study analysis, wellness tools, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
